@@ -1,5 +1,4 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -26,11 +25,19 @@ As the application server market matures, high performance becomes a stronger cr
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
 8. save to update the visualization on the dashboard as shown in the output 
 
+# NAME : A.ASHWIN KUMAR
+# REG NO : 212222100006
 
 ## OUTPUT 
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
 
+![1](https://github.com/ASHWINKUMAR2903/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119407186/ed6cecf3-b439-4bae-87ee-18e170813565)
+![3](https://github.com/ASHWINKUMAR2903/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119407186/5e938136-beb5-400e-b536-6c2b9b7658f4)
+![4](https://github.com/ASHWINKUMAR2903/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119407186/cbef11f1-117f-4637-8fde-8601183bb065)
+### FINAL OUTPUT:
+
+![final](https://github.com/ASHWINKUMAR2903/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119407186/a58890ad-d2a1-43b9-906d-8bec937bc229)
 
 
 ## Results: 
